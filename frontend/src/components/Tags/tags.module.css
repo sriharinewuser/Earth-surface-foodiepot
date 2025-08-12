@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  background-color: rgb(31, 32, 32);
+  flex-wrap: wrap;
+}
+
+.container a {
+  background-color: #cfc3c3;
+  padding: 0.3rem 1rem;
+  margin: 0.2rem 0.15rem;
+  border-radius: 10rem;
+  font-weight: 900;
+  color: rgba(1, 1, 19, 0.952);
+}

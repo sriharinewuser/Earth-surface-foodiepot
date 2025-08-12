@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node"
+  },
+  "include": ["src", "../../../food cousine-react -js-fullstack/backend/src/public"]
+}
